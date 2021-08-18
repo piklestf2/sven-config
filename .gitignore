@@ -1,7 +1,12 @@
 # Ignore everything
-*
+/*
 
 !.gitignore
+
 !svencoop/
 svencoop/*
 !svencoop/userconfig.cfg
+
+!svencoop_addon/
+svencoop_addon/*
+!svencoop_addon/sprites/
