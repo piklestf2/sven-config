@@ -1,0 +1,7 @@
+# Ignore everything
+*
+
+!.gitignore
+!svencoop/
+svencoop/*
+!svencoop/userconfig.cfg
